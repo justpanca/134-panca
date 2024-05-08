@@ -1,6 +1,6 @@
-Nama : Panca
-Judul : BritaniaBola
-Deskkripsi : website yang dapat digunakan untuk berdiskusi dan menikmati konten statistik dan sejarah suatu klub.
+Nama : Panca <br>
+Judul : BritaniaBola <br>
+Deskripsi : website yang dapat digunakan untuk berdiskusi dan menikmati konten statistik dan sejarah suatu klub.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
