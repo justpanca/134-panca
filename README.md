@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 Name : Panca <br>
 Title : BritaniaBola <br>
 attendance number : 134 <br>
 Description : a website that can be used to discuss and enjoy statistical and historical content of a club.
+=======
+Nama : Panca <br>
+Judul : BritaniaBola <br>
+Deskripsi : website yang dapat digunakan untuk berdiskusi dan menikmati konten statistik dan sejarah suatu klub.
+>>>>>>> b0d1a77177667f48cd76a366a2dbdda705edfea5
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
